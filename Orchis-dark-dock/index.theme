@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Orchis-dark-dock
+Comment=Makes Cinnamon's bottom pannel looks like a dock.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Orchis-dark-compact
+MetacityTheme=Orchis-dark-compact
+IconTheme=Tela-circle-dark
+CursorTheme=Vimix-dark
+ButtonLayout=close,minimize,maximize:menu
