@@ -1,5 +1,5 @@
 # Orchis-theme-Cinnamon-dock
-Makes Cinnamon's bottom pannel looks like a dock. Based on dark version of [Orchis GTK theme](https://github.com/vinceliuice/Orchis-theme#orchis-theme).
+Makes Cinnamon's bottom pannel looks like dock. Based on the dark version of [Orchis GTK theme](https://github.com/vinceliuice/Orchis-theme#orchis-theme).
 
 ## Installation
 
